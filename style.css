@@ -45,16 +45,17 @@ a{
     gap: 20px;
 }
 
-.right-part {
+.left-part {
     height: 250px;
     width: 450px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    gap: 12px;
     font-size: 18px;
     color: #e5e7eb;
 }
-.left-part {
+.right-part {
     height: 250px;
     width: 450px;
     display: flex;
